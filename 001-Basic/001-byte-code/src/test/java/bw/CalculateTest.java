@@ -1,4 +1,4 @@
-package иц;
+package bw;
 
 import org.junit.Test;
 import static org.hamcrest.CoreMatchers.is;

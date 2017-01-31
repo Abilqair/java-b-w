@@ -8,7 +8,7 @@
          <version>1.0</version>
          <packaging>pom</packaging>
          <modules>
+                  <module>001-byte-code</module>
                   <module>002-conditional-operation</module>
-                  
          </modules>
 </project>
